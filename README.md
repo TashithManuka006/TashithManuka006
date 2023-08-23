@@ -84,7 +84,7 @@ You can use the website to generate badges: https://shields.io/
         src="https://github-readme-activity-graph.vercel.app/graph?username=TashithManuka006&custom_title=TashithManuka006's+Contribution+Graph&theme=xcode"
     />
 </p>
-##
+
 
 <img align="right" alt="GIF" height="200px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 
