@@ -76,15 +76,14 @@ You can use the website to generate badges: https://shields.io/
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashithmanuka006&theme=react&cache" alt="tashithmanuka006" /></p>
 
-# CONTRIBYTION GRAPH 📉
-<a href="https://github.com/tashithmanuka006">
+# Contribution Graph:
+<a href="https://github.com/ImDenuwan">
 <p align="center">
     <img
         width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=tashithmanuka006&them=react&cachecustom_title=Contribution+Graph&theme=xcode"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=TashithManuka006&custom_title=TashithManuka006's+Contribution+Graph&theme=xcode"
     />
 </p>
-
 ##
 
 <img align="right" alt="GIF" height="200px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
